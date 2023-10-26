@@ -1,7 +1,5 @@
 # cosmjs-types
 
-[![npm version](https://img.shields.io/npm/v/cosmjs-types.svg)](https://www.npmjs.com/package/cosmjs-types)
-
 ## Maintenance
 
 This section is for maintainers of this repo, not users.
